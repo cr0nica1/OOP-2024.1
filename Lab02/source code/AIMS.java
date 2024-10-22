@@ -10,6 +10,7 @@ public class AIMS {
 		System.out.println("Total Cost is: ");
 		System.out.println(anOrder.totalCost());
 		anOrder.removeDigitalVideoDisc(dvd3);
+		System.out.println("Total Cost is: ");
 		System.out.println(anOrder.totalCost());
 	}
 }
