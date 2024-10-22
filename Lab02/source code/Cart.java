@@ -1,5 +1,3 @@
-package App;
-
 public class Cart {
 	public static final int MAX_NUMBER_ORDERED =20;
 	private DigitalVideoDisc itemsOrdered[]=
