@@ -1,5 +1,3 @@
-package App;
-
 public class AIMS {
 	public static void main(String[] args) {
 		Cart anOrder = new Cart();
